@@ -9,7 +9,7 @@ The repository contains code and supplement material from the paper **"Limits of
 The supplementary material for the paper, which includes dataset statistics, the actual LLM prompts, fine-tuning details, and additional results, can be
 found [here](./supplementary-material/Paper-Appendix.pdf).
 
-Note: If you have trouble loading the PDF in your browser, click the "Download file" button or navigate to the `supplementary-material/` directory.
+**Note: If you have trouble loading the PDF in your browser, click the "Download file" button or navigate to the `supplementary-material/` directory.**
 
 ## Generative Essay Detection in Education Dataset
 
