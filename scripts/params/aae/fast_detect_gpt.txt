@@ -1,0 +1,15 @@
+--dataset argument-annotated-essays --n_samples 402 --base_model_name EleutherAI/gpt-neo-2.7B --mask_filling_model_name EleutherAI/gpt-j-6B --model fast-detect-gpt --prompt_mode human
+--dataset argument-annotated-essays --n_samples 402 --base_model_name EleutherAI/gpt-neo-2.7B --mask_filling_model_name EleutherAI/gpt-j-6B --model fast-detect-gpt --prompt_mode dipper-131538
+--dataset argument-annotated-essays --n_samples 402 --base_model_name EleutherAI/gpt-neo-2.7B --mask_filling_model_name EleutherAI/gpt-j-6B --model fast-detect-gpt --prompt_mode dipper-20250130074608
+--dataset argument-annotated-essays --n_samples 402 --base_model_name EleutherAI/gpt-neo-2.7B --mask_filling_model_name EleutherAI/gpt-j-6B --model fast-detect-gpt --prompt_mode task
+--dataset argument-annotated-essays --n_samples 402 --base_model_name EleutherAI/gpt-neo-2.7B --mask_filling_model_name EleutherAI/gpt-j-6B --model fast-detect-gpt --prompt_mode summary
+--dataset argument-annotated-essays --n_samples 402 --base_model_name EleutherAI/gpt-neo-2.7B --mask_filling_model_name EleutherAI/gpt-j-6B --model fast-detect-gpt --prompt_mode task+summary
+--dataset argument-annotated-essays --n_samples 402 --base_model_name EleutherAI/gpt-neo-2.7B --mask_filling_model_name EleutherAI/gpt-j-6B --model fast-detect-gpt --prompt_mode rewrite-human
+--dataset argument-annotated-essays --n_samples 402 --base_model_name EleutherAI/gpt-neo-2.7B --mask_filling_model_name EleutherAI/gpt-j-6B --model fast-detect-gpt --prompt_mode improve-human
+--dataset argument-annotated-essays --n_samples 402 --base_model_name EleutherAI/gpt-neo-2.7B --mask_filling_model_name EleutherAI/gpt-j-6B --model fast-detect-gpt --prompt_mode rewrite-20250130074608
+--dataset argument-annotated-essays --n_samples 402 --base_model_name EleutherAI/gpt-neo-2.7B --mask_filling_model_name EleutherAI/gpt-j-6B --model fast-detect-gpt --prompt_mode task --generative_model gpt-4o-mini-2024-07-18
+--dataset argument-annotated-essays --n_samples 402 --base_model_name EleutherAI/gpt-neo-2.7B --mask_filling_model_name EleutherAI/gpt-j-6B --model fast-detect-gpt --prompt_mode summary --generative_model gpt-4o-mini-2024-07-18
+--dataset argument-annotated-essays --n_samples 402 --base_model_name EleutherAI/gpt-neo-2.7B --mask_filling_model_name EleutherAI/gpt-j-6B --model fast-detect-gpt --prompt_mode task+summary --generative_model gpt-4o-mini-2024-07-18
+--dataset argument-annotated-essays --n_samples 402 --base_model_name EleutherAI/gpt-neo-2.7B --mask_filling_model_name EleutherAI/gpt-j-6B --model fast-detect-gpt --prompt_mode rewrite-human --generative_model gpt-4o-mini-2024-07-18
+--dataset argument-annotated-essays --n_samples 402 --base_model_name EleutherAI/gpt-neo-2.7B --mask_filling_model_name EleutherAI/gpt-j-6B --model fast-detect-gpt --prompt_mode improve-human --generative_model gpt-4o-mini-2024-07-18
+--dataset argument-annotated-essays --n_samples 402 --base_model_name EleutherAI/gpt-neo-2.7B --mask_filling_model_name EleutherAI/gpt-j-6B --model fast-detect-gpt --prompt_mode rewrite-131538 --generative_model gpt-4o-mini-2024-07-18
