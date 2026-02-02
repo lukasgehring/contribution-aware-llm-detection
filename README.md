@@ -2,7 +2,7 @@
 
 The repository contains code and supplement material from the paper **"Limits of LLM Text Detectors for Measuring Human Contribution in Education"**.
 
-<img src="https://anonymous.4open.science/r/Assessing-LLM-Text-Detection-in-Educational-Contexts/supplementary-material/Method.png" alt="Overview of Contribution Levels " width="500"/>
+<img src="https://anonymous.4open.science/r/gede-git-anonymous-165C/supplementary-material/Method.png" alt="Overview of Contribution Levels " width="500"/>
 
 ## Supplementary Material
 
